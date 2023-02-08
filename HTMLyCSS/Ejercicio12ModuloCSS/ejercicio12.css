@@ -1,0 +1,19 @@
+.row div{
+    border: solid 1px black;
+}
+
+.col-sm{
+    background-color: aqua;
+}
+
+.col-md{
+    background-color: aquamarine;
+}
+
+.col-lg{
+    background-color: rgb(124, 207, 255);
+}
+
+.col-xl{
+    background-color: cadetblue;
+}
