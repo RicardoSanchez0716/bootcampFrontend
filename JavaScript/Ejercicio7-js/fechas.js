@@ -6,6 +6,6 @@ let comparacion = hoy > nacimiento
 
 let diaNacimiento = nacimiento.getDate()
 
-let mesNacimiento = nacimiento.getMonth()
+let mesNacimiento = nacimiento.getMonth() + 1
 
 let anioNacimiento = nacimiento.getFullYear()
